@@ -1,3 +1,6 @@
+//how to run- streamlit run app.py
+
+
 import streamlit as st
 
 from dotenv import load_dotenv
